@@ -21,5 +21,11 @@ public class Lab005Datatypes {
 
         long l = 123;
         System.out.println(l);
+
+        String str = "First string";
+        System.out.println(str);
+
+        long distance_earth = 3982528;
+        System.out.println(distance_earth);
     }
 }
