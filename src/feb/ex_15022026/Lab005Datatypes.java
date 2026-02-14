@@ -4,28 +4,33 @@ public class Lab005Datatypes {
     public static void main(String[] args) {
 
         //Primitive data types
-        byte b =100;
-        System.out.println(b);
+        char C = 'S';
+        System.out.println(C);
+        char C1 = '\n';
+        System.out.println(C1);
 
-        char system = 'A';
-        System.out.println(system);
+        char C2 = '\n'; 
+        System.out.println(C2);
 
-        float f = 123.45f;
+        char C3 = 'a';
+        System.out.println(C3);
+
+        int a = 10;
+        System.out.println(a);
+
+        float f = 10.5f;
         System.out.println(f);
 
-        double d = 123.456;
+        double d = 10.5;
         System.out.println(d);
 
-        int i = 123;
-        System.out.println(i);
+        boolean b = true;
+        System.out.println(b);
+        //string s1 = "Hello";
+        //System.out.println(s1);
 
-        long l = 123;
-        System.out.println(l);
+        //string s4 = "Hello World";
+       // System.out.println(s4);
 
-        String str = "First string";
-        System.out.println(str);
-
-        long distance_earth = 3982528;
-        System.out.println(distance_earth);
     }
 }
