@@ -26,11 +26,11 @@ public class Lab005Datatypes {
 
         boolean b = true;
         System.out.println(b);
-        //string s1 = "Hello";
-        //System.out.println(s1);
+        String s1 = "Hello";
+        System.out.println(s1);
 
-        //string s4 = "Hello World";
-       // System.out.println(s4);
+        String s4 = "Hello World";
+        System.out.println(s4);
 
     }
 }
